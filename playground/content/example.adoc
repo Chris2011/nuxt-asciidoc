@@ -1,0 +1,1 @@
+== Coming from example.adoc via includes

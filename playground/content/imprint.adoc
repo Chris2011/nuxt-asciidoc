@@ -1,0 +1,42 @@
+= Reference Documentation
+Lead Developer
+
+This is documentation for project X.
+
+include::example.adoc[]
+
+include::https://raw.githubusercontent.com/asciidoctor/asciidoctor/main/README.adoc[]
+
+
+It has *strong* significance to me.
+
+I _cannot_ stress this enough.
+
+Type `OK` to accept.
+
+That *_really_* has to go.
+
+Can't pick one? Let's use them `*_all_*`.
+
+= Document Title (Level 0)
+
+== Level 1 Section Title
+
+=== Level 2 Section Title
+
+==== Level 3 Section Title
+
+===== Level 4 Section Title
+
+====== Level 5 Section Title
+
+== Another Level 1 Section Title
+
+See <<_usage>>.
+
+== Usage
+
+https://asciidoctor.org[Asciidoctor]
+
+
+. [[step-1]]Download the software

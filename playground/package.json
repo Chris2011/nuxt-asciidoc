@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "nuxt-asciidoc-playground",
+  "type": "module",
+  "scripts": {
+    "dev": "nuxi dev",
+    "build": "nuxi build",
+    "generate": "nuxi generate"
+  },
+  "devDependencies": {
+    "nuxt": "latest"
+  },
+  "dependencies": {
+    "@nuxt/content": "^2.9.0"
+  }
+}
