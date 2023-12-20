@@ -62,6 +62,25 @@ export default defineNuxtConfig({
 
 That's it! You can now use My Module in your Nuxt app ✨
 
+## Example
+
+view: pages/imprint.vue + corresponding content file: content/imprint.adoc
+```vue
+<script setup>
+const { data } = await useAsyncData("imprint", () =>
+  queryContent("/imprint").findOne()
+);
+</script>
+
+<template>
+  <main>
+    <ContentDoc v-slot="{ doc }">
+      <div v-html="doc.body"></div>
+    </ContentDoc>
+  </main>
+</template>
+```
+
 ## Development (npm, yarn, pnpm)
 
 ```bash
