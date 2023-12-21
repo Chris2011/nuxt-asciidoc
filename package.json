@@ -4,7 +4,16 @@
   "description": "Transformer for using asciidoc in nuxt",
   "repository": "https://github.com/Chris2011/nuxt-asciidoc",
   "license": "MIT",
+  "author": "chrizzly",
   "type": "module",
+  "keywords": [
+    "nuxt",
+    "transformer",
+    "asciidoc"
+  ],
+  "bugs": {
+    "url": "https://github.com/Chris2011/nuxt-asciidoc/issues"
+  },
   "exports": {
     ".": {
       "types": "./dist/types.d.ts",
