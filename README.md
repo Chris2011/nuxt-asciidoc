@@ -9,6 +9,8 @@ Find and replace all on all files (CMD+SHIFT+F):
 
 # nuxt-asciidoc
 
+![nuxt-asciidoc-logo](./nuxt-asciidoc.svg)
+
 [![npm version][npm-version-src]][npm-version-href]
 [![npm downloads][npm-downloads-src]][npm-downloads-href]
 [![License][license-src]][license-href]
