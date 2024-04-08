@@ -40,14 +40,7 @@ If you like asciidoc more than markdown, this plugin is exactly for you.
 1. Add `nuxt-asciidoc` dependency to your project
 
 ```bash
-# Using pnpm
-pnpm add -D nuxt-asciidoc
-
-# Using yarn
-yarn add --dev nuxt-asciidoc
-
-# Using npm
-npm install --save-dev nuxt-asciidoc
+npx nuxi@latest module add nuxt-asciidoc
 ```
 
 2. Add `nuxt-asciidoc` to the `modules` section, before the `@nuxt/content`  of `nuxt.config.ts`
