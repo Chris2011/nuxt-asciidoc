@@ -38,7 +38,7 @@
   },
   "dependencies": {
     "@nuxt/kit": "^3.8.1",
-    "asciidoctor": "^3.0.2"
+    "asciidoctor": "^3.0.4"
   },
   "devDependencies": {
     "@types/node": "^20.8.10",
