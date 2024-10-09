@@ -1,6 +1,6 @@
 {
   "name": "nuxt-asciidoc",
-  "version": "1.0.3",
+  "version": "1.0.2",
   "description": "Transformer for using asciidoc in nuxt",
   "repository": "https://github.com/Chris2011/nuxt-asciidoc",
   "license": "MIT",
