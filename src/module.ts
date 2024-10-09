@@ -1,4 +1,3 @@
-import { resolve } from 'path'
 import { defineNuxtModule, createResolver } from '@nuxt/kit'
 
 export default defineNuxtModule({
