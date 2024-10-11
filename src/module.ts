@@ -12,7 +12,7 @@ export default defineNuxtModule({
     const { resolve } = createResolver(moduleDir);
 
     // Convert resolved path to file URL format
-    const pluginFileURL = pathToFileURL(resolve("./runtime/plugin")).href;
+    const pluginFileURL = pathToFileURL(resolve("./runtime/plugin.mjs")).href;
 
     // @ts-ignore
     nuxt.hook("content:context", (contentContext) => {
