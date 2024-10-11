@@ -1,5 +1,17 @@
 # Changelog
 
+## v1.0.4
+
+[compare changes](https://github.com/Chris2011/nuxt-asciidoc/compare/v1.0.2...v1.0.4)
+
+### 🏡 Chore
+
+- **release:** V1.0.3 ([501059c](https://github.com/Chris2011/nuxt-asciidoc/commit/501059c))
+
+### ❤️ Contributors
+
+- Clenz <christian.lenz@jambit.com>
+
 ## v1.0.3
 
 [compare changes](https://github.com/Chris2011/nuxt-asciidoc/compare/v1.0.2...v1.0.3)
